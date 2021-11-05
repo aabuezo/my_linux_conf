@@ -14,4 +14,4 @@ lxappearance
 geany
 qtile
 git
-
+ulauncher (works fine with i3 but not with qtile)
