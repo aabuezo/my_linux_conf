@@ -200,6 +200,6 @@ smart_gaps on
 
 #exec_always setxkbmap --layout es
 exec_always feh --bg-fill /home/ale/Imágenes/fondo.jpg
-exec_always compton -bcCGf -i 0.7 -e 0.7 --no-fading-openclose --sw-opti
+exec_always compton -bcCGf -i 0.8 -e 0.8 --no-fading-openclose --sw-opti
 for_window [class="^.*"] border pixel 2
 

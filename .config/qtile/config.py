@@ -198,7 +198,7 @@ wmname = "LG3D"
 # ejecutar al principio
 cmd = [
     'feh --bg-fill /home/ale/Imágenes/fondo.jpg',
-    'compton -bcCGf -i 0.7 -e 0.7 --no-fading-openclose --sw-opti',
+    'compton -bcCGf -i 0.8 -e 0.8 --no-fading-openclose --sw-opti',
     'nm-applet &',
     'kmix &'
 ]
