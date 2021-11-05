@@ -1,1 +1,2 @@
-# my_linux_conf
+# Fedora 34 i3 spin with Qtile
+
