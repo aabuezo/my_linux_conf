@@ -1,0 +1,17 @@
+After installing Fedora 34 i3 spin install:
+
+vim
+nvim
+zsh
+powerlevel10k
+zsh-autosuggestions
+zsh-syntax-highlighting
+i3-gaps
+feh
+compton
+terminator
+lxappearance
+geany
+qtile
+git
+
